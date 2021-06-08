@@ -8,7 +8,7 @@ PImage bigCactus;
 PImage manySmallCactus;
 PImage bird;
 PImage bird1;
-
+//////////////////////////////////////////////////////////////////////////////////////
 ArrayList<Obstacle> obstaculos = new ArrayList<Obstacle>();
 ArrayList<Bird> pajaros = new ArrayList<Bird>();
 ArrayList<Ground> tierras = new ArrayList<Ground>();
